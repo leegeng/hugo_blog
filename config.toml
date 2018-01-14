@@ -1,3 +1,21 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kyoungwon Lee"
+
+# kiera theme configs
+theme = "kiera"
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Kyoungwon Lee"       #Author name
+    github = "leegeng"     #Github username
+    linkedin = "kyoungwon.lee86"   #LinkedIn username
+    facebook = "kyoungwon.lee86"   #Facebook username
+    twitter = "leegeng86"    #Twitter username
+    instagram = "leegeng"  #Instagram username
+
+[params]
+    tagline = "the tagline for this website"
